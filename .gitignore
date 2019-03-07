@@ -186,3 +186,5 @@ tags
 [._]*.un~
 
 # End of https://www.gitignore.io/api/r,go,vim,node,rust,linux
+#
+.mypy_cache
